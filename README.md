@@ -1,6 +1,11 @@
 # YOLOv4
 
+FORKED from [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4). Thanks You!
+
+
 This is PyTorch implementation of [YOLOv4](https://github.com/AlexeyAB/darknet) which is based on [ultralytics/yolov3](https://github.com/ultralytics/yolov3).
+
+
 
 * [[original Darknet implementation of YOLOv4]](https://github.com/AlexeyAB/darknet)
 
